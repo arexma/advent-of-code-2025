@@ -1,7 +1,7 @@
 from utils.util import open_file
 
 def solve():
-    contents = open_file('Day 1\p1_input.txt')
+    contents = open_file('Day 1\input.txt')
     
     current = 50
     zero_count = 0

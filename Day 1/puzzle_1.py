@@ -1,6 +1,6 @@
 from utils.util import open_file
 
-def main():
+def solve():
     contents = open_file('Day 1\input.txt')
     
     current = 50
@@ -24,5 +24,4 @@ def main():
     
     print("Password:", zero_count)
 
-if __name__ == '__main__':
-    main()
+solve()

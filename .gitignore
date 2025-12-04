@@ -1,4 +1,3 @@
 .git
 *.pyc
-**/prompt.txt
 **/input.txt
